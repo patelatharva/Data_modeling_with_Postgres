@@ -2,7 +2,7 @@
 In this project, I applied the concepts of data modelling with relational database Postgres and built an ETL pipeline using Python. I completed this project by defining fact and dimension tables for a star schema to handle specific analytical need and wrote an ETL pipeline that transfers data from JSON files in two local directories into tables in Postgres using Python and SQL.  
 
 ## Requirement
-A ficitious startup called Sparkify needs to analyze the data it has been collecting on songs and user activity around listening those songs in their new music streaming app. The analytics team is particularly interested in understanding what songs users are listening to.  
+A music app startup Sparkify needs to analyze the data it has been collecting on songs and user activity around listening those songs in their new music streaming app. The analytics team is particularly interested in understanding what songs users are listening to.  
  1. The data related to user activity on the app resides in a directory of JSON log files.  
  2. The metadata on the songs like title, artist name and length of the song resides in JSON files stored in separate directory.  
 
