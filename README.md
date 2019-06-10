@@ -1,4 +1,4 @@
-# Data Modeling with Postgres using Python and SQL  
+# Data Modeling with Postgres Relational Database
 In this project, I applied the concepts of data modelling with relational database Postgres and built an ETL pipeline using Python. I completed this project by defining fact and dimension tables for a star schema to handle specific analytical need and wrote an ETL pipeline that transfers data from JSON files in two local directories into tables in Postgres using Python and SQL.  
 
 ## Requirement
